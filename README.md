@@ -19,7 +19,7 @@ This is a simple **Streamlit web app** designed to help users understand and com
 ### 1️⃣ Clone the Repository
 If using Git, clone the repository and navigate to the project folder:
 ```sh
-git clone https://github.com/Asmayaseen/growth-mindset-app.git
+git clone https://github.com/Asmayaseen/project-1-python.git
 cd growth-mindset-app
 ```
 
